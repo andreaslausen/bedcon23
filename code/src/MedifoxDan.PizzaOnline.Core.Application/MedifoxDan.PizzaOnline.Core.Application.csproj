@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MedifoxDan.PizzaOnline.Core.Application.Contracts\MedifoxDan.PizzaOnline.Core.Application.Contracts.csproj" />
+    <ProjectReference Include="..\MedifoxDan.PizzaOnline.Core.Domain\MedifoxDan.PizzaOnline.Core.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
